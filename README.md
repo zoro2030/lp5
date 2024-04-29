@@ -1,4 +1,4 @@
-# lp5
+# lp5 :crossed_swords:
 for DL Codes Use colab for fast execution, for Practical 3A Plant Leaves Disease Prediction if you need dataset visit below link
 https://drive.google.com/drive/folders/1YDG_XdrhmnDyThiHV9PeFW-NlHCS1KpZ?usp=drive_link
 
